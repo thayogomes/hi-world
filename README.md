@@ -30,9 +30,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thayogomes&show_icons=true&theme=tokyonight" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayogomes&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thayogomes&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayogomes&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thayogomes&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
